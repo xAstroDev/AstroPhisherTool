@@ -14,15 +14,15 @@ Any actions and or activities related to AstroPhisherTool **is solely your respo
 
 * `apt update`
 * `apt install git -y`
-* `git clone git://github.com/xAstroDev/astrophisher.git`
-* `cd nexphisher`
+* `git clone git://github.com/xAstroDev/AstroPhisherTool.git`
+* `cd AstroPhisherTool`
 #### > SETUP : `bash setup`
 #### > SETUP [TERMUX] : `bash tmux_setup`
 #### > Run : `bash astrophisher`
 
 ## Single Command :
 ```
-apt update ; apt install git -y ; git clone git://github.com/xAstroDev/astrophisher.git ; cd astrphisher ; bash setup ; bash astrophisher
+apt update ; apt install git -y ; git clone git://github.com/xAstroDev/AstroPhisherTool.git ; cd AstroPhisherTool ; bash setup ; bash astrophisher
 ```
 
 
