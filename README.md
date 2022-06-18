@@ -31,9 +31,6 @@ apt update ; apt install git -y ; git clone git://github.com/xAstroDev/AstroPhis
 #### [+] 5 Port Forwarding Options !
 #### [+] Easy for Beginners !
 
-## Releases V1.1
-#### [+] Fixed Issues in astrophisher file
-
 ## Credits :
 #### > Zphisher (https://github.com/htr-tech/zphisher)
 #### > The Linux Choice (https://github.com/thelinuxchoice)
