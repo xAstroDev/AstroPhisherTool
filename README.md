@@ -8,9 +8,11 @@ Any actions and or activities related to AstroPhisherTool **is solely your respo
 
 **It only demonstrates "how phishing works". You shall not misuse the information to gain unauthorized access to someones social media. However you may try out this at your own risk.**
 
+#installation
 
 
-## Installation :
+# TERMUX/LINUX;
+## Setup :
 
 * `apt update`
 * `apt install git -y`
@@ -24,7 +26,12 @@ Any actions and or activities related to AstroPhisherTool **is solely your respo
 ```
 apt update ; apt install git -y ; git clone git://github.com/xAstroDev/AstroPhisherTool.git ; cd AstroPhisherTool ; bash setup ; bash astrophisher
 ```
-
+# WINDOWS;
+## Setup
+* `git clone https//:github.com/xAstroDev/AstroPhisherTool.git`
+* `cd AstroPhisherTool`
+* `Bash setup`
+* `bash astrophisher`
 
 ## Features :
 #### [+] Latest Login Pages !
